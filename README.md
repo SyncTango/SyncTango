@@ -11,9 +11,6 @@ This is a profile where I'll be uploading some smaller projects, experiments, an
 ### Tools & Tech
 
 * **Languages:** Luau, Lua, Python
-* **Roblox Dev:** OOP, ECS (Planck), Knit, Rodux
-* **Frameworks:** Fusion, Roact, Wally
-
 ---
 
 ### A Bit About Me
