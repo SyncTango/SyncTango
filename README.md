@@ -2,19 +2,14 @@
 
 I'm Tango, a software engineer based in Brazil.
 
-A Luau Engineer from Brazil specializing in Technical Roblox Development. My focus is on creating high-performance Front-End architectures that don't just look only good, but are built on scalable and clean architecture
+A Luau Engineer from Brazil specializing in Technical Roblox Development. My focus is on creating high-performance Front-End architectures that don't just look only good, but are built on scalable and clean architecture.
 I also am highly realiable, in most cases won't take me 10 minutes to answer you.
 
 ---
 
-### Tools & Tech
+### 🛠 Languages & Tools
 
-* **Languages:** Luau, Lua, Python
----
-
-### A Bit About Me
-
-* 🛠️ Focused on competitive systems and physics-based mechanics.
-* 🍎 Passionate about clean code, strict typing, and modular architecture.
-
----
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Rojo](https://img.shields.io/badge/Rojo-D52150?style=for-the-badge&logo=rojo&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
