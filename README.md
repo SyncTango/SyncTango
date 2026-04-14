@@ -1,8 +1,8 @@
 # Hey there 👋
 
-I'm Tango, a software engineer based in Brazil.
+I'm SyncTango, a software engineer based in Brazil.
 
-A Luau Engineer from Brazil specializing in Technical Roblox Development. My focus is on creating high-performance Front-End architectures that don't just look only good, but are built on scalable and clean architecture.
+A Luau Engineer from Brazil specializing in Technical Roblox Development. My focus is on creating high-performance Full-Stack architectures that don't just look only good, but are built on scalable and clean architecture.
 I also am highly realiable, it will not take me long for me to answer you.
 
 ---
