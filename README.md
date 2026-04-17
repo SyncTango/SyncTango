@@ -2,8 +2,7 @@
 
 I'm SyncTango, a software engineer based in Brazil.
 
-A Luau Engineer from Brazil specializing in Technical Roblox Development. My focus is on creating high-performance Full-Stack architectures that don't just look only good, but are built on scalable and clean architecture.
-I also am highly realiable, it will not take me long for me to answer you.
+A Luau Engineer from Brazil specializing in Technical Roblox Development.I am focused on robust systems, solid architecture and building modular and scalable solutions, a reliable partner for the long run.
 
 ---
 
